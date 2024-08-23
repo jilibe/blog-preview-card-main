@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [jilibe](https://github.com/jilibe/blog-preview-card-main.git)
-- Live Site URL: [jilibe]https://jilibe.github.io/blog-preview-card-main/)
+- Live Site URL: [jilibe](https://jilibe.github.io/blog-preview-card-main/)
 
 ## My process
 
